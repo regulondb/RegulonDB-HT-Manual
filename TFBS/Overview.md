@@ -1,11 +1,21 @@
+## Transcripction Factor Binding Sites datasets
+
 ### Overview
 
-[Describir el **proceso de curación** utilizado para el *análisis de datos*.]
+[Describir el **proceso de curación** utilizado para el *análisis de datos* de **Transcripction Factor Binding Sites**.]
 
 
 1. Numeración
+
 2. Numeración 2
+
 3. Numeración 2
+
+   
+
+[Agregar imágenes en caso de requerirse]
+
+<img src="./imgs/WorkflowHT.png" style="zoom:50%;" />
 
 
 [Describir el contenido de los archivos de datos y metadatos.]
@@ -28,7 +38,6 @@
 | Valor 1      |              |              |
 | Valor 2      |              |              |
 | Valor 2      |              |              |
-
 
 
 

@@ -31,13 +31,16 @@
 
     - _TFBS Comparison Feature Maps_:
       [Descripción del archivo.]
-    
+      
       
     
-[​__Author dataset TFBS excel files__](./OtherComponents.md)
- 
 
-[​__Metadata dataset Transcription Factor Binding Site v#.#__](./OtherComponents.md)
+
+[​__Author dataset TFBS excel files__](./OtherTFBSComponents.html#authorTFBSExcelFiles)
+
+
+
+[​__Metadata dataset Transcription Factor Binding Site v#.#__](./OtherTFBSComponents.html#metadataTFBSFiles)
 
 
 
