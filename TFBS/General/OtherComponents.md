@@ -1,4 +1,4 @@
-### Other Transciption Factor Binding Sites dataset componentes
+### Other Transciption Factor Binding Sites dataset components
 
 ​	__Author dataset TFBS excel files__
   - [Incluir la descripción de cada uno de los diferentes tipos de archivos obtenidos.] 
