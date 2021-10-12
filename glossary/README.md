@@ -2,6 +2,24 @@
 
 Glossary of terms related to High Throughput
 
+- CHIP-chip
+- CHIP-exo
+- CHIP-seq
+- Dataset
+- Growth Condition
+
+
+### Dataset Collection
+
+##### definition
+
+
+##### examples
+
+##### references
+
+
+
 
 ### CHIP-chip
 
@@ -12,6 +30,8 @@ Glossary of terms related to High Throughput
 ##### references
 
 
+
+
 ### CHIP-exo
 
 ##### definition
@@ -19,6 +39,7 @@ Glossary of terms related to High Throughput
 ##### examples
 
 ##### references
+
 
 
 
@@ -32,20 +53,50 @@ Glossary of terms related to High Throughput
 
 
 
+
 ### Dataset
 
 ##### definition
-[spanish] Un Dataset en RegulonDB se entiende como una colección de archvos y datos que comparten propiedades específicas como 3) una metodología masiva experimental,  1) una condición experimental que pueden integrar una o más replicas, 2) un identificador asociado a una publicación que analiza los datos del experimento, 4) Un identificador asociado a la muestra y sus réplicas del repositorio donde los datos del experimento son depositados y 4) En algunos casos el objeto biológico  de análisis.
+[spanish] Un _Dataset_ en RegulonDB se entiende como una colección de archivos y datos que comparten propiedades específicas como 3) una metodología masiva experimental (CHIP-seq, CHIP-Chip, RNA-seq, etc),  1) una condición experimental (anotada siguiendo el framework de RegulonDB ver Growth Condition en este glosario) 2) un identificador asociado a una publicación que analiza los datos del experimento ( por ejemplo un PMID de PubMed), 4) Un identificador(es) del repositorio donde son colocados los archivos resultados del experimento que puede tener 1 o más réplicas( por ejemplo SampleID de GEO) y 4) En algunos casos el objeto biológico  de análisis ( por ejemplo el Factor de Transcripción )
 
-[inglés] Dataset in RegulonDB is understood as a collection of files and data that share specific properties such as 1) an experimental condition and can include one or more replicas, 2) an identifier associated with a publication that analyzes the data of the experiment, 3) a massive experimental methodology , 4) In some cases the biological object of analysis.
-
+[inglés] A _Dataset_ in RegulonDB is understood as a collection of files and data that share specific properties such as 3) a massive experimental methodology (CHIP-seq, CHIP-Chip, RNA-seq, etc), 1) an experimental condition (annotated following the framework of RegulonDB see Growth Condition in this glossary) 2) an identifier associated with a publication that analyzes the data of the experiment (for example a PMID from PubMed), 4) An identifier (s) of the repository where the experiment results files are placed that may have 1 or more replicates (for example GEO SampleID) and 4) In some cases the biological object of analysis (for example the Transcription Factor)
 
 ##### examples
 
 ##### references
 
 
-### 
+
+### Gene Expression
+
+##### definition
+
+##### examples
+
+##### references
+
+
+
+### Growth Condition
+
+##### definition
+
+##### examples
+
+##### references
+
+
+
+### RNA-Seq
+
+##### definition
+
+##### examples
+
+##### references
+
+
+### Transcription Factor Binding
 
 ##### definition
 
@@ -56,9 +107,19 @@ Glossary of terms related to High Throughput
 
 
 
+### Growth Condition
 
+##### definition
+
+##### examples
+
+##### references
 
 ------------------
+
+
+### DEFINIR UN TERMINO EN UN GLOSARIO
+
 
 La palabra que nombra al objeto de conocimiento que se quiere definir.  
  
